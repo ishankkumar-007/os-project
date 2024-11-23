@@ -1,6 +1,6 @@
-[submodule "web-server-in-C"]
-	path = web-server-in-C
-	url = https://github.com/ishankkumar-007/web-server-in-C.git
 [submodule "xv6-riscv"]
 	path = xv6-riscv
 	url = https://github.com/satvikaryan/xv6-riscv.git
+[submodule "pairpoint"]
+	path = pairpoint
+	url = https://github.com/ishankkumar-007/pairpoint.git
